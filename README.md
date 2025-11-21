@@ -1,5 +1,5 @@
-# vpsdeploybot
-**Manuelly**
+# vps Deploy Bot commands 
+**Must have subscribed to AyuXD**
 **1st** 
 ```
 pip install -r requirements.txt
